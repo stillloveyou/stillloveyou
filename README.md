@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/#6DB33F?style=for-the-badge&logo=이미지 이름&logoColor=black">
 
-<img src="https://img.shields.io/badge/문자-색코드?style=for-the-badge&logo=#6DB33F&logoColor=black">
+<img src="https://img.shields.io/badge/Spring-색코드?style=for-the-badge&logo=#6DB33F&logoColor=black">
