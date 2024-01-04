@@ -3,7 +3,7 @@
 ## Mingyu
 - I'm
 - E-mail : jacaer103@naver.com
-- <a href=https://blog.naver.com/dnjfzmf><img src="https://img.shields.io/badge/Blog-6DB33F?style=flat-square&logo=Blogger&logoColor=white"/></a>
+- Blog : https://blog.naver.com/dnjfzmf
 
 ## Activity
 
