@@ -1,4 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 
 ## Mingyu
 - I am studying in the military unit. My goal is to develop my skills enough to participate in team projects after I am discharged from the military.
@@ -35,4 +34,3 @@
 ![stillloveyou's github stats](https://github-readme-stats.vercel.app/api?username=stillloveyou&show_icons=true)
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
