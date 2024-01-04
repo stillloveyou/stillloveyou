@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href=https://blog.naver.com/dnjfzmf target="_blank"><img src="https://img.shields.io/badge/Blog-배경색?style=plastic&logo=#FF5722&logoColor=000000"/></a>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stillloveyou&show_icons=true&theme=radical)
