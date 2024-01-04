@@ -23,7 +23,11 @@ Here are some ideas to get you started:
  <a href=https://blog.naver.com/dnjfzmf target="_blank"><img src="https://img.shields.io/badge/![image](https://github.com/stillloveyou/stillloveyou/assets/91673718/f4303627-3f95-4085-8c9b-0f38475bd204)
 ?style=flat-square&logo=Blog&logoColor=white"/></a>
 
-![Blog](https://blog.naver.com/dnjfzmf/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+![Spring](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+
+
 
 <img src="https://img.shields.io/badge/Spring-색코드?style=for-the-badge&logo=#6DB33F&logoColor=black">
 
