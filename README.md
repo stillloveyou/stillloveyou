@@ -1,5 +1,5 @@
 
-## Mingyu
+## Kimmingyu
 - I am studying in the military unit. My goal is to develop my skills enough to participate in team projects after I am discharged from the military.
 
 - Blog : https://blog.naver.com/dnjfzmf
