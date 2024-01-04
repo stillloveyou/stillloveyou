@@ -2,9 +2,9 @@
 
 ## Mingyu
 - I am studying in the military unit. My goal is to develop my skills enough to participate in team projects after I am discharged from the military.
-- 
+  
 - E-mail : jacaer103@naver.com
-- 
+  
 - Blog : https://blog.naver.com/dnjfzmf
 
 ## Activity
