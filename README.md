@@ -36,6 +36,13 @@ dnjfzmf](http://mazassumnida.wtf/api/v2/generate_badge?boj={stilloveyou})](https
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/></a>
 
+poetry install             # 의존성 설치
+poetry shell               # 가상환경에 진입
+python manage.py runserver # 서버 실행
+
+pip install -r requirements.txt
+python manage.py runserver # 서버 실행
+
 [![Solved.ac
 /profile/dnjfzmf](http://mazassumnida.wtf/api/generate_badge?boj={stillloveyou})](https://solved.ac/{stillloveyou})
 
