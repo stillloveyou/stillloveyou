@@ -23,10 +23,6 @@
 
 
 
-pip install -r requirements.txt
-python manage.py runserver # 서버 실행
-
-
 
 ![stillloveyou's github stats](https://github-readme-stats.vercel.app/api?username=stillloveyou&show_icons=true)
 
