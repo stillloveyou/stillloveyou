@@ -23,7 +23,7 @@ Here are some ideas to get you started:
  <a href=https://blog.naver.com/dnjfzmf target="_blank"><img src="https://img.shields.io/badge/![image](https://github.com/stillloveyou/stillloveyou/assets/91673718/f4303627-3f95-4085-8c9b-0f38475bd204)
 ?style=flat-square&logo=Blog&logoColor=white"/></a>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 
 
