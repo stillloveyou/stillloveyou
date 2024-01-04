@@ -26,11 +26,12 @@ Here are some ideas to get you started:
  <a href=https://blog.naver.com/dnjfzmf target="_blank"><img src="https://img.shields.io/badge/![image](https://github.com/stillloveyou/stillloveyou/assets/91673718/f4303627-3f95-4085-8c9b-0f38475bd204)
 ?style=flat-square&logo=Blog&logoColor=white"/></a>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) 
 
 <a href=https://blog.naver.com/dnjfzmf><img src="https://img.shields.io/badge/Blog-6DB33F?style=flat-square&logo=Blogger&logoColor=white"/></a>
 
-
+<a href=><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
+<a href=><img src="https://img.shields.io/badge/텍스트-색상코드?style=flat-square&logo=로고이름&logoColor=로고색"/></a>
+<a href=><img src="https://img.shields.io/badge/텍스트-색상코드?style=flat-square&logo=로고이름&logoColor=로고색"/></a>
 
 
 ![stillloveyou's github stats](https://github-readme-stats.vercel.app/api?username=stillloveyou&show_icons=true)
