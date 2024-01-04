@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stillloveyou&show_icons=true&theme=radical)
 
-<img src="https://img.shields.io/badge/#6DB33F?style=for-the-badge&logo=이미지 이름&logoColor=black">
+
 
 <img src="https://img.shields.io/badge/Spring-색코드?style=for-the-badge&logo=#6DB33F&logoColor=black">
+
+![stillloveyou's github stats](https://github-readme-stats.vercel.app/api?username=stillloveyou&show_icons=true)
