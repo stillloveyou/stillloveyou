@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <a href=https://blog.naver.com/dnjfzmf><img src="https://img.shields.io/badge/Blog-6DB33F?style=flat-square&logo=Blogger&logoColor=white"/></a>
 
 [![Solved.ac
-dnjfzmf](http://mazassumnida.wtf/api/v2/generate_badge?boj={stilloveyou})](https://solved.ac/{stillloveyou})
+dnjfzmf](http://mazassumnida.wtf/api/v2/generate_badge?boj={dnjfzmf})](https://solved.ac/{dnjfzmf})
 
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/></a>
