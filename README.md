@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <details>
 <summary>
-  안녕하세요
+   토글
 </summary>
    토글 안 내용
 </details>
@@ -32,6 +32,9 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/></a>
+
+[![Solved.ac
+/profile/dnjfzmf](http://mazassumnida.wtf/api/generate_badge?boj={stillloveyou})](https://solved.ac/{stillloveyou})
 
 
 ![stillloveyou's github stats](https://github-readme-stats.vercel.app/api?username=stillloveyou&show_icons=true)
