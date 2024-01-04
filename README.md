@@ -1,10 +1,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 
 ## Mingyu
-- study for
-- Blog :  https://blog.naver.com/dnjfzmf
+- I'm
+- E-mail : jacaer103@naver.com
+- <a href=https://blog.naver.com/dnjfzmf><img src="https://img.shields.io/badge/Blog-6DB33F?style=flat-square&logo=Blogger&logoColor=white"/></a>
 
 ## Activity
+
 [![Solved.ac
 /profile/dnjfzmf](http://mazassumnida.wtf/api/v2/generate_badge?boj=dnjfzmf)](https://solved.ac/dnjfzmf)
 
@@ -17,7 +19,7 @@
 ?style=flat-square&logo=Blog&logoColor=white"/></a>
 
 
-<a href=https://blog.naver.com/dnjfzmf><img src="https://img.shields.io/badge/Blog-6DB33F?style=flat-square&logo=Blogger&logoColor=white"/></a>
+
 
 
 
