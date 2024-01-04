@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 
 <a href=https://blog.naver.com/dnjfzmf><img src="https://img.shields.io/badge/Blog-6DB33F?style=flat-square&logo=Blogger&logoColor=white"/></a>
 
-<a href=><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
-<a href=><img src="https://img.shields.io/badge/텍스트-색상코드?style=flat-square&logo=로고이름&logoColor=로고색"/></a>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/></a>
 <a href=><img src="https://img.shields.io/badge/텍스트-색상코드?style=flat-square&logo=로고이름&logoColor=로고색"/></a>
 
 
