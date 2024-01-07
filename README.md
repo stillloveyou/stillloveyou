@@ -11,7 +11,7 @@
 
 ## Activity
 
- ![mazandi profile](http://mazandi.herokuapp.com/api?handle=dnjfzmf&theme=dark)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=dnjfzmf&theme=dark)
 <br/>
 <br/>
 
