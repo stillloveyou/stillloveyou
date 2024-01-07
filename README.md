@@ -11,7 +11,7 @@
 
 ## Activity
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dnjfzmf)](https://solved.ac/dnjfzmf/) ![mazandi profile](http://mazandi.herokuapp.com/api?handle=dnjfzmf&theme=dark)
+ ![mazandi profile](http://mazandi.herokuapp.com/api?handle=dnjfzmf&theme=dark)
 <br/>
 <br/>
 
