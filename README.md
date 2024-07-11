@@ -5,6 +5,8 @@
 - Blog : https://blog.naver.com/dnjfzmf
 
 - E-mail : jacaer103@naver.com
+
+- YouTube : https://www.youtube.com/channel/UCV2d3h0Q564OJO8nt78kU4w
 <br/>
   
 
